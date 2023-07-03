@@ -38,7 +38,7 @@ I am a junior Data Scientist with a statistics background. I like to work on sta
 
 </p>
 
-### Badges<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/Wtell64">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wtell64&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
