@@ -6,11 +6,14 @@ Statistician & Data Scientist
 
 I am a junior Data Scientist with a statistics background. I like to work on statistical learning models and neural networks. Recently, I am learning full-stack development.
 
-*   🌍  I'm based in Netherlands
-*   🖥️  See my portfolio at [www.portfoliowebsite.com](http://www.portfoliowebsite.com)
-*   ✉️  You can contact me at [arasmentese96@gmail.com](mailto:arasmentese96@gmail.com)
-*   🧠  I'm learning React
-*   ⚡  Contact me if you are interested for a collaboration.### Skills 
+* 🌍  I'm based in Netherlands
+* 🖥️  See my portfolio at [www.portfoliowebsite.com](http://www.portfoliowebsite.com)
+* ✉️  You can contact me at [arasmentese96@gmail.com](mailto:arasmentese96@gmail.com)
+* 🧠  I'm learning React
+* ⚡  Contact me if you are interested for a collaboration.
+
+### Skills
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,21 +27,16 @@ I am a junior Data Scientist with a statistics background. I like to work on sta
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/Wtell64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/aras-mentese-24847b175/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.medium.com/@arasmentese96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 
-</p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Wtell64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aras-mentese-24847b175/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@arasmentese96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/Wtell64">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wtell64&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+
+<a href="http://www.github.com/Wtell64"><img src="https://github-readme-stats.vercel.app/api?username=Wtell64&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wtell64's GitHub stats" /></a>
+
+<a href="http://www.github.com/Wtell64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wtell64&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Wtell64"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wtell64&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
