@@ -34,6 +34,8 @@ I am a junior Data Scientist with a statistics background. I like to work on sta
                           
 <a href="https://www.linkedin.com/in/aras-mentese-24847b175/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-<a href="http://www.medium.com/@arasmentese96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="http://www.medium.com/@arasmentese96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+
+</p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Wtell64"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Wtell64&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
