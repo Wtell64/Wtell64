@@ -6,7 +6,7 @@ Statistician & Data Scientist
 
 I am a junior Data Scientist with a statistics background. I like to work on statistical learning models and neural networks. Recently, I am learning full-stack development.
 
-* 🌍  I'm based in Netherlands
+* 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.portfoliowebsite.com](http://www.portfoliowebsite.com)
 * ✉️  You can contact me at [arasmentese96@gmail.com](mailto:arasmentese96@gmail.com)
 * 🧠  I'm learning React
