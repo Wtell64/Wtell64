@@ -9,7 +9,7 @@ I am a junior Data Scientist with a statistics background. I like to work on sta
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.portfoliowebsite.com](http://www.portfoliowebsite.com)
 * ✉️  You can contact me at [arasmentese96@gmail.com](mailto:arasmentese96@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React in my free time.
 * ⚡  Contact me if you are interested for a collaboration.
 
 ### Skills
