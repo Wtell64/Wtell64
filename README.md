@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Statistician & Data Scientist
 -----------------------------
 
-I am a junior Data Scientist with a statistics background. I like to work on statistical learning models and neural networks. Recently, I am learning full-stack development.
+I am a .Net Developer with a background in statistics & data science. I create web applications mainly in .net but also build small projects on wordpress. As for my statistical background, I like to work on statistical learning models and neural networks.
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [tba](http://www.portfoliowebsite.com)
+* 🖥️  See my portfolio at [tba](tba)
 * ✉️  You can contact me at [arasmentese96@gmail.com](mailto:arasmentese96@gmail.com)
 * 🧠  I'm learning React in my free time.
 * ⚡  Contact me if you are interested for a collaboration.
