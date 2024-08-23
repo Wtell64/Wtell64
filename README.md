@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aras</h1>
-<h3 align="center">I am a .net developer with a background in statistics and data science. I work mainly on .Net projects and occasually data science projects. Currently learning new front-end frameworks such as React and Vue.js. Please don't hesitate to check the projects in my repository and contact me to collaborate :)</h3>
+<h3 align="center">I am a developer with a background in statistics and data science. I work mainly on .Net projects and occasually data science projects. Currently learning new front-end frameworks such as React and Vue.js. Please don't hesitate to check the projects in my repository and contact me to collaborate :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtell64&label=Profile%20views&color=0e75b6&style=flat" alt="wtell64" /> </p>
 
